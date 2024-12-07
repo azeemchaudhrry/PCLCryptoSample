@@ -8,7 +8,7 @@ namespace PCLCryptoSample
 {
     internal class CalculateChecksumMigration
     {
-        static void Test()
+        public static void Test()
         {
             string[] testStrings = new string[]
             {

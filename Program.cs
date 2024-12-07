@@ -6,8 +6,8 @@ namespace PCLCryptoSample
     {
         static void Main(string[] args)
         {
-            //CalculateChecksumMigration.Test();
-            //DerivedKeyMigration.Test();
+            CalculateChecksumMigration.Test();
+            DerivedKeyMigration.Test();
             EncryptDecryptMigration.Test();
 
             Console.ReadKey();
